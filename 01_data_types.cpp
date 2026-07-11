@@ -38,7 +38,7 @@ int main()
     // cout << endl << bat;
 
     // concepts of variable, arithmatic operators, assignment operators are same as conceptually
-    
+
     return 0;
 }
 
